@@ -1,2 +1,2 @@
-# repositorio para practicar pull
+# repositorio para practicar pull(git)
 practicar el comando pull
